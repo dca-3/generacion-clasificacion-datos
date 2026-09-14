@@ -1,0 +1,20 @@
+1001;Computador Portatil;680000
+1002;Mouse Inalambrico;230000
+1003;Teclado Mecanico;890000
+1004;Monitor 24 Pulgadas;440000
+1005;Disco SSD 1TB;1000000
+1006;Memoria RAM 16GB;520000
+1007;Audifonos Bluetooth;500000
+1008;Webcam HD;70000
+1009;Impresora Multifuncional;860000
+1010;Tablet;650000
+1011;Smartphone;820000
+1012;Cable HDMI;80000
+1013;Adaptador USB;330000
+1014;Parlantes;580000
+1015;Router WiFi;600000
+1016;Memoria USB 64GB;820000
+1017;Cargador Universal;80000
+1018;Base Refrigerante;540000
+1019;Microfono;740000
+1020;Camara Web;340000

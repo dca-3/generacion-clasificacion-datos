@@ -1,0 +1,10 @@
+CE;8817027;Daniel Alejandro;Gomez Ramirez
+CE;8018968;Carlos Andres;Gomez Ramirez
+CC;5815743;Maria Fernanda;Torres Fernandez
+CE;6674998;Laura Sofia;Martinez Moreno
+CC;1987200;Carlos Andres;Morales Sanchez
+CE;3762245;Juan David;Martinez Moreno
+CE;9464598;Juliana;Morales Sanchez
+CE;6927821;Paula Andrea;Castro Leon
+TI;4545874;Valentina;Gomez Ramirez
+TI;8055291;Camila Andrea;Lopez Martinez
