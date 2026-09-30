@@ -2,20 +2,20 @@
 
 ## Descripcion
 
-Proyecto Java 8 para Eclipse que implementa la clase `GenerateInfoFiles`.
+Proyecto Java 8 para Eclipse que implementa la clase `proyecto.GenerateInfoFiles`.
 La clase genera automaticamente archivos planos pseudoaleatorios que seran
 utilizados como entrada por el programa principal del proyecto de procesamiento
 de ventas.
 
 ## Entrega 1
 
-Esta entrega se concentra en el diseño e implementacion de `GenerateInfoFiles`.
+Esta entrega se concentra en el diseño e implementacion de `proyecto.GenerateInfoFiles`.
 No se incluye todavia el procesamiento de ventas ni la generacion de reportes
 finales, porque esas tareas corresponden a la siguiente etapa del proyecto.
 
 ## Archivos generados
 
-Al ejecutar `GenerateInfoFiles`, se crean dentro de `data/`:
+Al ejecutar `proyecto.GenerateInfoFiles`, se crean dentro de `data/`:
 
 - `productos.txt`: ID, nombre y precio por unidad de cada producto.
 - `vendedores.txt`: tipo de documento, numero de documento, nombres y apellidos.
@@ -30,7 +30,7 @@ Al ejecutar `GenerateInfoFiles`, se crean dentro de `data/`:
 
 1. Importar el proyecto en Eclipse.
 2. Verificar que el JRE del proyecto sea Java 8.
-3. Ejecutar `GenerateInfoFiles.java` como Java Application.
+3. Ejecutar `proyecto.GenerateInfoFiles.java` como Java Application.
 4. Revisar la carpeta `data` para comprobar los archivos generados.
 
 El programa no solicita datos al usuario.

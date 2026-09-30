@@ -1,0 +1,10 @@
+CC;10000001;Carlos;Gomez
+CC;10000002;Laura;Rodriguez
+CC;10000003;Andres;Martinez
+CC;10000004;Maria;Lopez
+CC;10000005;Juan;Perez
+CC;10000006;Diana;Garcia
+CC;10000007;Felipe;Sanchez
+CC;10000008;Camila;Torres
+CC;10000009;Sofia;Ramirez
+CC;10000010;Miguel;Castro
